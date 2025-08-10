@@ -1,18 +1,8 @@
 title:おしるこウィッシュリスト
 description:ほしい組み合わせを入れていくよん
 
-// Supercluster (god-pve)
-//notes: キ tags:god-pve
-dimwishlist:item=92459755&perks=1523832109,1546637391
-
-
-// Omniscient Eye (god-pve)
-//notes: 多 tags:god-pve
-dimwishlist:item=147444292&perks=1354429876,555281244
-
-
-// Critical Anomaly (Adept) (pve)
-//notes: め tags:pve
-dimwishlist:item=172461430&perks=3418782618,3038247973
-
+// ミント・レトログレイド
+//notes: メモ tags:pve
+dimwishlist:item=42435996&perks=3525010810,1431678320,3418782618,3078487919,3454102905
+dimwishlist:item=42435996&perks=3525010810,1431678320,3418782618,1089671869,3454102905
 
