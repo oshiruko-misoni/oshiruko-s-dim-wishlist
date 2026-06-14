@@ -1,17 +1,23 @@
 title:おしるこウィッシュリスト
 description:ほしい組み合わせを入れていくよん
 
+//notes: 
 
 // 
-//notes: 3,4列目 God Rolls
+//notes: God RollS
 //notes: pve
 //notes: pvp
 
 // 勝利の記念碑 - Monument of Triumph
 
-
-
-
+// アダマンタイト
+//notes: God RollS
+dimwishlist:item=621450049&perks=839105230,1431678320,3201496230,31345821
+//notes: pve
+dimwishlist:item=621450049&perks=692399809,2298656195
+dimwishlist:item=621450049&perks=2980589453,2298656195
+dimwishlist:item=621450049&perks=3201496230,31345821
+//notes: pvp
 
 
 
