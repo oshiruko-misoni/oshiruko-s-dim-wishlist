@@ -7,6 +7,11 @@ description:ほしい組み合わせを入れていくよん
 //notes: pve
 //notes: pvp
 
+// 勝利の記念碑 - Monument of Triumph
+
+
+
+
 
 
 
