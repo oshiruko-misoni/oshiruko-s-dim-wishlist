@@ -4,7 +4,7 @@ description:ほしい組み合わせを入れていくよん
 //notes: 
 
 // 
-//notes: God RollS
+//notes: God Rolls
 //notes: pve
 //notes: pvp
 //notes: 6 Rolls
