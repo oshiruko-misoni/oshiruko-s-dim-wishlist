@@ -528,7 +528,7 @@ dimwishlist:item=71057630&perks=247725512,555281244
 dimwishlist:item=71057630&perks=3619207468,555281244
 
 // 磨かれた陰謀
-//notes: God Rolls
+//notes: God Rolls （マスターワークは冷却効率が望ましい）
 dimwishlist:item=4062069077&perks=1840239774,807993149,1546637391,3078487919
 //notes: pve
 dimwishlist:item=4062069077&perks=807993149,1546637391,3078487919
